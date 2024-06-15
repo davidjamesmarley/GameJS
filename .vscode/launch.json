@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 01 - Connect Four",
+            "file": "c:\\projects_kids\\GameJS\\Game_01_Connect_Four\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 02 - Candy Crush",
+            "file": "C:\\projects_kids\\GameJS\\Game_02_Candy_Crush\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 03 - Speed Typing",
+            "file": "c:\\projects_kids\\GameJS\\Game_03_Speed_Typing\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 04 - Archery",
+            "file": "c:\\projects_kids\\GameJS\\Game_04_Archery\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 05 - Flappy Bird",
+            "file": "c:\\projects_kids\\GameJS\\Game_05_Flappy_Bird\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 06 - Maze",
+            "file": "c:\\projects_kids\\GameJS\\Game_06_Maze\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 07 - Hangman",
+            "file": "c:\\projects_kids\\GameJS\\Game_07_Hangman\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 08 - Crossy Road",
+            "file": "c:\\projects_kids\\GameJS\\Game_08_Crossy_Road\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 09 - 2048",
+            "file": "c:\\projects_kids\\GameJS\\Game_09_2048\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Game 10 - Tilting Maze Game",
+            "file": "c:\\projects_kids\\GameJS\\Game_10_Tilting_Maze\\index.html"
+        }
+    ]
+}
